@@ -4,8 +4,6 @@
 
 This is a fully responsive, mobile-friendly personal portfolio website built using **HTML**, **Tailwind CSS**, and **JavaScript**. It showcases the personal brand, skills, services, and projects of Winodh Prasanna – a frontend web designer with a focus on clean UI/UX and modern web aesthetics.
 
-![Preview](src/images/image.jpg)
-
 ---
 
 ## 🚀 Features
